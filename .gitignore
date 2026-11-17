@@ -1,0 +1,5 @@
+/citas_medicas.db
+/php/
+*.log
+.DS_Store
+
